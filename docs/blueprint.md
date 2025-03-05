@@ -10,9 +10,9 @@ A next-gen BMI pipeline:
 - **Phase 3**: Real-time OpenBCI integration for live control.
 
 ## Tech Stack
-- Python (`mne`, PyTorch)
+- Python (`mne`, `biosig`, PyTorch)
 - Graph Neural Networks + Transfer Learning
-- AWS (S3 storage, ECS hosting), Docker
+- AWS (S3 for storage, ECS for hosting), Docker
 
 ## Next Steps
-- Simulate EEG streaming from BCI IV 2a.
+- Simulate EEG streaming from BCI IV 2a GDF files on AWS S3.
