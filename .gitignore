@@ -1,9 +1,6 @@
-*.pyc
-__pycache__/
-*.mat
-*.gdf
-*.h5
-.env
-venv/
+data/raw/*
+data/processed/*
+data/features/*
+models/*
+logs/*
 env/
-*.ipynb_checkpoints
