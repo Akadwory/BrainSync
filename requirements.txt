@@ -1,0 +1,28 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+pyyaml
+
+# Machine Learning & Deep Learning
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# EEG Processing
+mne
+braindecode
+
+# Visualization & Notebooks
+jupyter
+notebook
+ipython
+
+# Hardware Acceleration (for Jetson & Colab)
+nvidia-pyindex
+nvidia-tensorrt
+cupy-cuda12x
