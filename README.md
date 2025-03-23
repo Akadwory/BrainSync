@@ -63,5 +63,5 @@ We use **BCI Competition IV - Dataset 2a**, which contains EEG recordings for **
 ### Google Colab Setup  
 Run this command in Colab to install dependencies:
 ```bash
-
 !pip install mne numpy matplotlib torch
+
